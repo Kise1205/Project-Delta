@@ -7,10 +7,13 @@ This project identifies a common inefficient interface (the credit card expirati
 
 ## 👥 Project Information
 
-**Student Name:** THUAN NGUYEN
-**Course**: CIS 376 – Web Development
-**Instructor**: Dr. Barry Cumbie
-**Project Type**: User Story (XL 👕) – Interface Improvement Prototype
+**Student Name:** THUAN NGUYEN.
+
+**Course**: CIS 376 – Web Development.
+
+**Instructor**: Dr. Barry Cumbie.
+
+**Project Type**: User Story (XL 👕) – Interface Improvement Prototype.
 
 ---
 
@@ -58,10 +61,12 @@ All pages were validated for **HTML** and **accessibility**:
 
 ## 🧱 Code Base Overview
 
-The project is built using **HTML5, CSS3, JavaScript (ES6 Modules), and Bootstrap 5.**
+The project is built using **HTML5, CSS3, JavaScript (ES6 Modules), and Bootstrap 5.**.
 JavaScript dynamically builds the month/year grids and logs interaction metrics in the console.
 
-### 🧩 Architecture
+---
+
+## 🧩 Architecture
 
 - **index.html**  
   Structure and layout (Before & After cards, metrics).
