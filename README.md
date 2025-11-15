@@ -76,6 +76,7 @@ JavaScript dynamically builds the month/year grids and logs interaction metrics 
 
 ## 📊 Effectiveness Metric
 |Metric | Old Interface | New Interface|
+|------ | ------------- | -------------|
 |**Clicks Required** | 4+ | 2|
 |**Avg. Time to Complete** | 6.2s | 2.5s|
 |**Accessibility Errors** | 3 | 0|
@@ -192,10 +193,10 @@ Each button updates the selected state, records clicks, and triggers the metric 
 
 ## 🤝 Attribution
 
-**W3Schools:** Grid and form layout references
-**Bootstrap Docs:**	Button & grid utility classes
-**People:**	My Brother & I
-**AI:**	GPT-5 for layout suggestions & README drafting
+W3Schools: Grid and form layout references
+Bootstrap Docs:	Button & grid utility classes
+People:	My Brother & I
+AI:	GPT-5 for layout suggestions & README drafting
 
 ---
 
