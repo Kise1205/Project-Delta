@@ -193,10 +193,13 @@ Each button updates the selected state, records clicks, and triggers the metric 
 
 ## 🤝 Attribution
 
-W3Schools: Grid and form layout references
-Bootstrap Docs:	Button & grid utility classes
-People:	My Brother & I
-AI:	GPT-5 for layout suggestions & README drafting
+W3Schools: Grid and form layout references.
+
+Bootstrap Docs:	Button & grid utility classes.
+
+People:	My Brother & I.
+
+AI:	GPT-5 for layout suggestions & README drafting.
 
 ---
 
